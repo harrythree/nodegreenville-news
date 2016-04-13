@@ -29,7 +29,7 @@ var config = {
       name: 'nodegreenville-news-demo'
     },
     port: process.env.PORT || 3000,
-    db: 'mongodb://localhost/nodegreenville-news-demo-production'
+    db: process.env.MONGODB_URI
   }
 };
 
