@@ -1,4 +1,4 @@
-###NodeGreenville Meetup Notes - 4/13/2016
+### NodeGreenville Meetup Notes - 4/13/2016
 
 
 # Goal
